@@ -94,3 +94,10 @@ main {
     border-radius: 8px;
     box-shadow: 0 0 10px rgb(87, 81, 81);
 }
+
+img.mojang {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
