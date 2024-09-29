@@ -86,3 +86,11 @@ nav ul li a {
 nav ul li a:hover {
     background-color: hsl(106, 26%, 22%);
 }
+
+main {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(87, 81, 81);
+}
